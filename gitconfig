@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gabriel.alves.amorim@hotmail.com
+	name = Gabriel Alves
